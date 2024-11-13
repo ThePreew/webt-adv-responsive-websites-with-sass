@@ -1,0 +1,14 @@
+{
+  "name": "webt-adv-responsive-websites-with-sass",
+  "version": "1.0.0",
+  "description": "It happened again! The client was satisfied with your product but decided to adjust the saturation of one of the key colors in your design slightly. So many CSS rules to edit! Your team decides to introduce SASS for the stylesheets in order to be able to use variables for colors and compile the CSS afterwards.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.80.7"
+  }
+}
